@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">REP•EAT</string>
+    <string name="title_activity_main">Map</string>
+
+    <!-- Menu item titles - toolbar -->
+    <string name="main_menu">Main Menu</string>
+    <string name="filters">Filters</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_map_fragment">Hello MAP fragment</string>
+    <string name="hello_list_fragment">Hello LIST fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
